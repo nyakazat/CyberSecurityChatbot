@@ -19,7 +19,7 @@ namespace CyberSecurityChatbot
                 // Build the full path to the audio file
                 string filePath = Path.Combine(
                     AppDomain.CurrentDomain.BaseDirectory,
-                    "greeting.waV"
+                    "greeting.wav"
                 );
 
                 // Check if the file exists before attempting to play it

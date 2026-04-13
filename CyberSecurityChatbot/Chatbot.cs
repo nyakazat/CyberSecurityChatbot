@@ -25,7 +25,7 @@ namespace CyberSecurityChatbot
 
         private void AskUserName()
         {
-            Console.Write("Please enter your name: ");
+            Console.Write("Please enter you name: ");
             userName = Console.ReadLine();
 
             while (string.IsNullOrWhiteSpace(userName))

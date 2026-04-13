@@ -6,7 +6,7 @@ namespace CyberSecurityChatbot
     {
         static void Main(string[] args)
         {
-            Console.Title = "Cybersecurity Awareness Chatbot";
+            Console.Title = "Cybersecrity Awareness Chatbot";
 
             // Play the voice greeting
             AudioPlayer.PlayGreeting();
